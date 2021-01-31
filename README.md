@@ -1,2 +1,3 @@
 # course-api
- using Springboot
+Building a REST API using SpringBoot
+
