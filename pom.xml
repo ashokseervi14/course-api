@@ -4,6 +4,7 @@
   <artifactId>course-api</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>Java Brain Course API</name>
+  <packaging>jar</packaging>
   
   <parent>
   	<groupId>org.springframework.boot</groupId>
@@ -23,4 +24,5 @@
   <properties>
         <java.version>1.8</java.version>
   </properties>
+
 </project>
